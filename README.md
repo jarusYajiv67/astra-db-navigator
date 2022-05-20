@@ -1,7 +1,7 @@
 # DataStax Astra DB Navigator
 ### No code environment to manage your AstraDB Databases
 
-##### 3 min pitch video - 
+##### 3 min pitch video - https://www.youtube.com/watch?v=E60_nkq9wbI
 ##### DataStax Astra DB Navigator is available at - https://astra-db-navigator.netlify.app/
 
 #### Table of contents
