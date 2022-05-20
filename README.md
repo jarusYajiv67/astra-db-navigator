@@ -19,3 +19,5 @@ netlify dev
 #### 1. ReactJS
 #### 2. Astra DevOps API
 #### 3. Stargate REST API
+
+####### NOTE: This product is not part of the datastax cloud offering
